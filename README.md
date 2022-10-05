@@ -19,16 +19,17 @@ In this I am going to identify two distinct classes of moles using a Convolut
 ##Model Performance
 
 
-![image](https://user-images.githubusercontent.com/80577092/193998155-502ca8cf-e1be-4848-81c0-987341b12d84.png)
-![image](https://user-images.githubusercontent.com/80577092/193998220-e6784f8d-90d5-480b-b71c-293b7291cb68.png)
+![image](https://user-images.githubusercontent.com/80577092/193999163-41b0d5a5-9ab8-4d35-9512-751b57dae7d2.png)
+![image](https://user-images.githubusercontent.com/80577092/193999196-84e0c6ad-6800-43a8-ab3f-84b1bb804242.png)
 
 ###Prediction
 
 
-![image](https://user-images.githubusercontent.com/80577092/193998536-a418707d-4b65-41cb-a961-bf6527f46572.png)
-![image](https://user-images.githubusercontent.com/80577092/193998560-a2e6041e-9806-4d20-acf1-03eb29173e74.png)
+![image](https://user-images.githubusercontent.com/80577092/193999034-95021ad6-85f0-4525-a7c0-f434182663b7.png)
+![image](https://user-images.githubusercontent.com/80577092/193999090-58b0e320-b846-4052-b161-2d77185feb14.png)
+
 
 ###Confusion Matrix
 
 
-![image](https://user-images.githubusercontent.com/80577092/193998643-ef17638d-5277-46a0-9e34-543727a33a36.png)
+![image](https://user-images.githubusercontent.com/80577092/193998968-6dca1d7a-df38-4cbf-abda-02446993840f.png)
