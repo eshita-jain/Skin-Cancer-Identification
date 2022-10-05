@@ -20,7 +20,7 @@ In this I am going to identify two distinct classes of moles using a Convolut
 
 
 ![image](https://user-images.githubusercontent.com/80577092/193999163-41b0d5a5-9ab8-4d35-9512-751b57dae7d2.png)
-![image](https://user-images.githubusercontent.com/80577092/194004647-955d2118-a0ab-46c0-af03-6c87cc75d0fc.png)
+![image](https://user-images.githubusercontent.com/80577092/194004977-98821cbc-987a-4c60-9e37-ceb144c90252.png)
 
 * Prediction
 
