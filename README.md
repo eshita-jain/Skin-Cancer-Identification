@@ -12,15 +12,23 @@ In this I am going to identify two distinct classes of moles using a Convolut
 
 
 ##Pre-processed Images
+
+
 ![image](https://user-images.githubusercontent.com/80577092/193996945-a386230a-f3b6-46db-8255-f21b5f23ab48.png)
 
 ##Model Performance
+
+
 ![image](https://user-images.githubusercontent.com/80577092/193998155-502ca8cf-e1be-4848-81c0-987341b12d84.png)
 ![image](https://user-images.githubusercontent.com/80577092/193998220-e6784f8d-90d5-480b-b71c-293b7291cb68.png)
 
 ###Prediction
+
+
 ![image](https://user-images.githubusercontent.com/80577092/193998536-a418707d-4b65-41cb-a961-bf6527f46572.png)
 ![image](https://user-images.githubusercontent.com/80577092/193998560-a2e6041e-9806-4d20-acf1-03eb29173e74.png)
 
 ###Confusion Matrix
+
+
 ![image](https://user-images.githubusercontent.com/80577092/193998643-ef17638d-5277-46a0-9e34-543727a33a36.png)
